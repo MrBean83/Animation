@@ -5,24 +5,6 @@
  *
  * Program Name - BounceZ
  *
- *   Assignment options implemented:
- *
- *   -Program requirements (20 points)
- *
- *   -Program option #2 (5 points)
- *
- *   -Program option #3 (5 points)
- *
- *   -Program option #4 (5 points)
- *
- *   -Program option #6 (10 points)
- *
- *   -Program option #7 (10 points)
- *
- *   **Total Points required: 50 points**
- *
- *   **Total Points attempted: 55 points**
- *
  ******************************************************/
 import java.awt.*;				// for GUI
 import java.awt.event.*;
